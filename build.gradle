@@ -1,0 +1,6 @@
+apply plugin: 'java'
+
+dependencies {
+    implementation "joda-time:joda-time:2.2"
+    testImplementation "junit:junit:4.12"
+}
